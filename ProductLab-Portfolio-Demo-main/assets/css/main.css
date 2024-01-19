@@ -6,26 +6,47 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-.nav_bar a {
+.nav_bar_name a {
 	float: left;
-	color: #f2f2f2;
+	color: #060505;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
-	font-size: 17px;
+	font-size: 25px;
+	font-weight: 600;
   }
   
   /* Change the color of links on hover */
   .nav_bar a:hover {
-	background-color: #ddd;
-	color: black;
+	color: rgb(34, 170, 194);
+  }
+  .nav_bar a {
+	float: right;
+	color: #060505;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: 400;
   }
   
-  /* Add a color to the active/current link */
-  .nav_bar a.active {
-	background-color: #04AA6D;
-	color: white;
+  /* Change the color of links on hover */
+  .nav_bar_name a:hover {
+	color: rgb(34, 170, 194);
   }
+
+  .nav_bar1 a {
+	float: right;
+	color: #060505;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25px;
+	font-weight: 600;
+  }
+  
+ 
+  
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
