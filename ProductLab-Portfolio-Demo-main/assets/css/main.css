@@ -2295,8 +2295,9 @@ input, select, textarea {
 			-webkit-flex-wrap: wrap;
 			-ms-flex-wrap: wrap;
 			flex-wrap: wrap;
-			width: calc(100% + 3rem);
+			width: calc(80% + 3rem);
 			margin: -1.5rem 0 2rem -1.5rem;
+			padding-left: 20px;
 		}
 
 			form > .fields > .field {
