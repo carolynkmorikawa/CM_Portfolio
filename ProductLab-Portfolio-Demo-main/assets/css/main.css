@@ -6,6 +6,28 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
+.hobbies ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+  }
+  
+  li {
+	float: left;
+  }
+  
+
+.hobbies li a {
+ 
+	display: block;
+	color: black ;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+  }
+
 .nav_bar_name a {
 	float: left;
 	color: #060505;
