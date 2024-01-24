@@ -11,10 +11,31 @@
 	color: rgb(216, 31, 142);
 
 }
-.about_me h1{
-	padding-top: 20px;
-	padding-bottom: 20px;
+.content h2{
+	color: rgb(216, 31, 142);
 }
+.content h4{
+	color: rgb(206, 126, 174);
+}
+.proj h1{
+	text-align: left;
+	padding-top: 10%;
+	padding-bottom: 2%;
+	text-decoration: none;
+	font-size: 70px;
+	font-weight: 500;
+	color: rgb(216, 31, 142);
+
+}
+.proj h2{
+	text-align: left;
+	text-decoration: none;
+	font-size: 40px;
+	font-weight: 300;
+	color: rgb(206, 126, 174);
+
+}
+
 .me p{
 	text-align: left;
 	padding-left: 10px;
@@ -27,6 +48,7 @@
 	font-weight: 700;
 	color: rgb(216, 31, 142);
 }
+
 
 .skills h2{
 	text-align: left;
@@ -100,7 +122,9 @@
 	font-size: 25px;
 	font-weight: 800;
   }
+
   
+
   /* Change the color of links on hover */
 
   .nav_bar_name  {
@@ -112,6 +136,7 @@
 .nav_bar a:hover {
 	color: rgb(216, 31, 142);
   }
+
   .nav_bar a {
 	float: right;
 	color: white;
@@ -122,26 +147,14 @@
 	font-weight: 400;
   }
 
-  /* Change the color of links on hover */
-
-  .nav_bar1 a {
-	float: right;
-	color: white;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 25px;
-	font-weight: 600;
-  }
-  
   .about_me h1 {
-	color: white;
 	text-align: left;
 	padding-top: 30%;
 	padding-bottom: 30%;
 	text-decoration: none;
 	font-size: 70px;
 	font-weight: 500;
+	color: rgb(216, 31, 142);
   }
 
   .carolyn h1 {
@@ -3031,7 +3044,7 @@ a.icon.style2:active:before {
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 0;
+		padding-left: 50%;
 	
 	}
 
